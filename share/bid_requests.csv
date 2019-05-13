@@ -1,0 +1,11 @@
+Bid_Id,id_Location,Price,Target_group,Target_Segment
+1,TX,1000,KIDS,Art
+2,CA,2000,KIDS,Action
+3,CO,2000,TEEN,GAME
+4,MA,5000,KIDS,DATING
+5,WA,1000,ADULTS,Business
+6,BA,2000,TEEN,Education
+7,VA,4500,KIDS,Medical
+8,GE,7800,KIDS,Dance
+9,MD,2000,KIDS,Adventure
+10,VF,1000,KIDS,Dating
